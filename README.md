@@ -1,4 +1,4 @@
-# Web_scraping_challenge
+# web_scraping_challenge
 ![image](https://github.com/RabNing/Web_Scraping/assets/126477871/3d42e308-f3ca-4130-a7dd-784e865a56df)
 
 # Project Background
